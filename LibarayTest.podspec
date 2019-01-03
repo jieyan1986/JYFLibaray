@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "LibarayTest"
-  s.version = "0.1.0"
+  s.version = "0.2.0"
   s.summary = "A short description of LibarayTest."
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"jieyan1986"=>"wangjie05@kuaishou.com"}
